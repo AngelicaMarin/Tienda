@@ -30,10 +30,9 @@
     
 }
 .logo{
-    width: 100px;
+    width: 500px;
     cursor: pointer;
 }
-
 
 nav{  
     padding-left: 50px;
@@ -48,6 +47,8 @@ nav ul li{
 }
 
 nav ul li a{
+    margin-top: 24px;
+    margin-bottom: 15px;
     text-decoration: none;
     color: #333;
     font-size: 19px;   
