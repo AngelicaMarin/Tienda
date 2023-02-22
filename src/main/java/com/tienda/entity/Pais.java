@@ -7,7 +7,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import java.io.Serializable;
 
-@Entity
+@Entity //patron decorador//
 @Table (name="paises")
 public class Pais implements Serializable{
     @Id
